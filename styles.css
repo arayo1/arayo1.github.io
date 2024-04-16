@@ -1,0 +1,9 @@
+.background {
+    background: linear-gradient(to right, #C69B44 0%, #C69B44 50%, #291B23 50%, #291B23 100%);
+}
+.background-white {
+    background-color: white;
+}
+body {
+    font-family: 'Fira Mono', monospace !important;
+  }
